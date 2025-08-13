@@ -1,0 +1,12 @@
+# Puzzle inputs & outputs
+/**/*.data
+/**/*.solution.md
+
+# Compiler outputs
+/**/*.out
+
+# DrRacket
+compiled
+/**/*.bak
+/**/*.1
+/**/*.2

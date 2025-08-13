@@ -1,0 +1,17 @@
+{
+  "name": "Project Euler",
+  "runArgs": ["--name", "project-euler"],
+  
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
+
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "evzen-wybitul.magic-racket" // Racket
+      ]
+    }    
+  },
+
+  "postCreateCommand": "bash .devcontainer/dependencies.sh"
+
+}
