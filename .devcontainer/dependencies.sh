@@ -5,5 +5,5 @@ echo ">>> Updating package lists..."
 sudo apt-get update
 
 # Racket
-echo ">>> Installing Racket dependencies..."
+echo ">>> Installing Racket..."
 sudo apt-get install -y racket
