@@ -2,3 +2,13 @@
 I completed the challenges from [Project Euler](https://projecteuler.net) in different programming languages as a fun learning-sideproject.
 
 The project was constructed inside a [VS-Code devcontainer](https://code.visualstudio.com/docs/devcontainers/containers) and will install all extensions and dependancies automatically upon building this container.
+
+## Racket
+These solutions where written in the [Racket Programming Language](https://racket-lang.org).
+
+To run these files, use the [DrRacket](https://download.racket-lang.org) Programming Environment or the [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) VS-Code plugin.
+
+## Ruby
+These solutions where written in the [Ruby Programming Language](https://ruby-lang.org).
+
+To run these files, use the command `ruby Lang_ruby/*.rb`
