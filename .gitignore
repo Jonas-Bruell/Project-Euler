@@ -1,7 +1,3 @@
-# Puzzle inputs & outputs
-/**/*.data
-/**/*.solution.md
-
 # Compiler outputs
 /**/*.out
 
