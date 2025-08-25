@@ -6,9 +6,9 @@ The project was constructed inside a [VS-Code devcontainer](https://code.visuals
 ## Racket
 These solutions where written in the [Racket Programming Language](https://racket-lang.org).
 
-To run these files, use the [DrRacket](https://download.racket-lang.org) Programming Environment or the [Magic Racket](https://marketplace.visualstudio.com/items?itemName=evzen-wybitul.magic-racket) VS-Code plugin.
+To run these files, use the command `racket Lang_Racket/*.rkt`, or use the [DrRacket](https://download.racket-lang.org) Programming Environment.
 
 ## Ruby
-These solutions where written in the [Ruby Programming Language](https://ruby-lang.org).
+These solutions where written in [Ruby](https://ruby-lang.org).
 
-To run these files, use the command `ruby Lang_ruby/*.rb`
+To run these files, use the command `ruby Lang_Ruby/*.rb`.
